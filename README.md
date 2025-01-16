@@ -4,13 +4,13 @@
 <h3 align="center">Data Science and Artificial Intelligence Enthusiast | Data Analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZlYjZkYzA4YzhmMzk2MTc4ZDBkYTYzNGEyZTliMmE4MTE5MzFhYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Real Estate Analysis Project**
+- 🔭 I’m currently studying **Masters In Data Science at University at Buffalo, New York**
 
-- 🌱 I’m currently learning **AWS , MongoDB**
+- 🌱 I’m currently learning **Kafka**
 
-- 💬 Ask me about **Python , Data Analysis , GCP etc**
+- 💬 Ask me about **Python , Data Engineering , GCP etc**
 
-- 📫 How to reach me **siddharthhiraou06@gmail.com**
+- 📫 How to reach me **sidhiraou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
