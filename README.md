@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZlYjZkYzA4YzhmMzk2MTc4ZDBkYTYzNGEyZTliMmE4MTE5MzFhYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - ⚙️ Recent work: multi-agent systems with CrewAI, OCR/document extraction pipelines with AWS Textract, and Claude-powered agent architectures
-- 🎓 MS in Data Science, University at Buffalo (Dec 2025)
+- 🎓 **MS in Data Science**, University at Buffalo (Dec 2025)
 - 🏆 AWS Certified AI Practitioner | Google Cloud Certified
 - 🌱 Currently exploring **Kafka** and agentic AI system design
 - 💬 Ask me about **LLM agents, AWS, Python, data engineering, or signal processing (CNNs on sensor data)**
