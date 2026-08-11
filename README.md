@@ -33,25 +33,20 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Featured Work:</h3>
+<h2 align="left">Featured Work:</h2>
+
 
 **Smart Chicken Disease Detection and Farm Management Solution**
 
 Venky's Kitchen and Farm
 Real-time poultry health platform flagging sick, dead, and abnormally behaving birds from shed camera feeds within seconds. Two-stage CV pipeline (YOLOv8 detection → fine-tuned disease classifier for coccidiosis, Newcastle disease, and salmonella indicators) served via Dockerized FastAPI on edge hardware. Automated climate control through an MQTT rules engine with full command audit trail, plus a Next.js/Supabase ops dashboard with realtime alerting, health scoring, RBAC, and client-side face check-in.
 `Python` `YOLOv8` `PyTorch` `OpenCV` `FastAPI` `MQTT` `Docker` `Next.js` `Supabase/PostgreSQL` `Edge AI` `IoT`
-
 🔗 [Demo](https://smart-poultry-platform.vercel.app/)
 
 
-**AutoETL**
+**AutoETL** 
 
-Natural language to executable ETL pipelines
+— Natural language to executable ETL pipelines
 Converts plain-English prompts into ETL pipelines using an "LLM plans, engine executes" design — the model emits a schema-validated JSON DAG, never code. Custom Python DAG executor (Polars, DuckDB) with topological ordering, per-node retries, and live status streaming over Redis pub/sub and SSE. Hardened end to end with dual validation (Zod + Pydantic), a sandboxed AST expression compiler, AES-256-GCM encrypted credentials, and Postgres RLS. Cost-aware LLM routing sends simple prompts to a small model and complex joins to a stronger one. Backed by 52 tests.
 `TypeScript` `Next.js 15` `React Flow` `Python` `FastAPI` `Polars` `DuckDB` `Redis` `Supabase` `Zod/Pydantic` `LLM APIs` `Docker`
-
 🔗 [Demo](https://autoetl-mu.vercel.app/)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthhiraou&show_icons=true&locale=en&layout=compact" alt="siddharthhiraou" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthhiraou&show_icons=true&locale=en" alt="siddharthhiraou" /></p>
