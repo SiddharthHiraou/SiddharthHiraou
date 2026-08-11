@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZlYjZkYzA4YzhmMzk2MTc4ZDBkYTYzNGEyZTliMmE4MTE5MzFhYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I'm currently working as an **AI/ML Engineer Intern at Intisca Technologies**, building an LLM-powered car servicing platform on AWS
 - ⚙️ Recent work: multi-agent systems with CrewAI, OCR/document extraction pipelines with AWS Textract, and Claude-powered agent architectures
 - 🎓 MS in Data Science, University at Buffalo (Dec 2025)
 - 🏆 AWS Certified AI Practitioner | Google Cloud Certified
