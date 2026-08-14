@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Siddharth Hiraou</h1>
 <h3 align="center">AI/ML Engineer | Building production LLM systems | MS Data Science, University at Buffalo</h3>
 
+<p align="center">
+  <a href="https://siddharth-portfolio-smoky.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logoColor=white&labelColor=0A66C2" alt="Portfolio" height="45"/>
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://siddharth-portfolio-smoky.vercel.app" target="_blank">siddharth-portfolio-smoky.vercel.app</a>
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddharth-hiraou/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  <a href="mailto:sidhiraou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28"/>
+  </a>
+</p>
+
+---
+
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZlYjZkYzA4YzhmMzk2MTc4ZDBkYTYzNGEyZTliMmE4MTE5MzFhYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - ⚙️ Recent work: multi-agent systems with CrewAI, OCR/document extraction pipelines with AWS Textract, and Claude-powered agent architectures
@@ -9,12 +30,6 @@
 - 🌱 Currently exploring **Kafka** and agentic AI system design
 - 💬 Ask me about **LLM agents, AWS, Python, data engineering, or signal processing (CNNs on sensor data)**
 - 📫 Reach me at **sidhiraou@gmail.com**
-- 🌐 Portfolio: **siddharth-portfolio-smoky.vercel.app**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/siddharth-hiraou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,3 +65,11 @@ Converts plain-English prompts into ETL pipelines using an "LLM plans, engine ex
 `TypeScript` `Next.js 15` `React Flow` `Python` `FastAPI` `Polars` `DuckDB` `Redis` `Supabase` `Zod/Pydantic` `LLM APIs` `Docker`
 
 🔗 [Demo](https://autoetl-mu.vercel.app/)
+
+---
+
+<p align="center">
+  <a href="https://siddharth-portfolio-smoky.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/See_the_full_project_write--ups_→-000000?style=for-the-badge&labelColor=0A66C2" alt="Portfolio" height="40"/>
+  </a>
+</p>
