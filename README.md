@@ -29,7 +29,7 @@
 - 🏆 AWS Certified AI Practitioner | Google Cloud Certified
 - 🌱 Currently exploring **Kafka** and agentic AI system design
 - 💬 Ask me about **LLM agents, AWS, Python, data engineering, or signal processing (CNNs on sensor data)**
-- 📫 Reach me at **sidhiraou@gmail.com**
+- 📫 Reach me at **siddharth.h@itjobinbox.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
